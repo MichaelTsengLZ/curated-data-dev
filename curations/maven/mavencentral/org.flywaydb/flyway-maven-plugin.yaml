@@ -1,0 +1,9 @@
+coordinates:
+  name: flyway-maven-plugin
+  namespace: org.flywaydb
+  provider: mavencentral
+  type: maven
+revisions:
+  7.7.0:
+    licensed:
+      declared: Artistic-1.0-Perl
