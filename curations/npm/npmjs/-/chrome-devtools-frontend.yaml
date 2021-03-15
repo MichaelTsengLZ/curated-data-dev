@@ -1,0 +1,8 @@
+coordinates:
+  name: chrome-devtools-frontend
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.440939:
+    licensed:
+      declared: BSD-3-Clause
