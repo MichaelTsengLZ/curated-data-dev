@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  1.6.10:
+    licensed:
+      declared: MIT-feh
   1.6.9:
     licensed:
       declared: MIT-feh
