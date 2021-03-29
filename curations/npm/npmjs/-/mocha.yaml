@@ -1,0 +1,8 @@
+coordinates:
+  name: mocha
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.1:
+    licensed:
+      declared: MIT-feh
