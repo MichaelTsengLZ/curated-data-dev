@@ -6,3 +6,9 @@ revisions:
   5.0.1:
     licensed:
       declared: MIT-feh
+  5.0.3:
+    licensed:
+      declared: MIT-feh
+  5.1.0:
+    licensed:
+      declared: MIT-feh
